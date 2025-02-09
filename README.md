@@ -24,6 +24,8 @@ The chatbot is built using **Streamlit**, **Ollama**, and **ChromaDB**, incorpor
 
 ### Examples
 
+![Chatbot Screenshot](screenshot.png)
+
 **File Upload and Contextual Responses**:
 - Upload a document on a specific topic (e.g., "Climate Change").
 - Ask the chatbot questions based on the document: 
